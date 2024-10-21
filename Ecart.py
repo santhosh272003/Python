@@ -145,7 +145,8 @@ class start_shopping:
                     print("\n____product not available in your cart____")
                 
             elif choice==5:
-                #return print("\n_____Thanks For Shopping______")
+                #return print("\n_____Thanks For Shopping ______")
+                #Thanks for shopping vist again
                 return start_shopping.end_msg()
                  
 
