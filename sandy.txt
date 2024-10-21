@@ -1,0 +1,1 @@
+It is a mini ecart file to adding products to the customer
